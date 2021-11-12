@@ -1,4 +1,4 @@
-# tsvue3
+# Vue3GoldenLayout
 
 ## Project setup
 ```
